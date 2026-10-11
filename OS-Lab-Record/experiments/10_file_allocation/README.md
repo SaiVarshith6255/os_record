@@ -1,6 +1,7 @@
 # Experiment 10 — File Allocation Strategies
 
 **Date:** 24-09-2026  
+**Student Name:** Sai Varshith Pilli  
 **Roll No.:** 25071A6255
 
 ## Sequential Allocation

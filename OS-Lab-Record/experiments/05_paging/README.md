@@ -1,6 +1,7 @@
 # Experiment 5 — Paging Technique of Memory Management
 
 **Date:** 27-08-2026  
+**Student Name:** Sai Varshith Pilli  
 **Roll No.:** 25071A6255
 
 ## Source

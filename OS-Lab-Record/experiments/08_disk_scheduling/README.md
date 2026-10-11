@@ -1,6 +1,7 @@
 # Experiment 8 — Disk Scheduling: FCFS, SSTF and SCAN
 
 **Date:** 10-09-2026  
+**Student Name:** Sai Varshith Pilli  
 **Roll No.:** 25071A6255
 
 ## FCFS

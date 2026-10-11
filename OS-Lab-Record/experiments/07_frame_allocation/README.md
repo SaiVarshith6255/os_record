@@ -1,6 +1,7 @@
 # Experiment 7 — Frame Allocation Methods
 
 **Date:** 03-09-2026  
+**Student Name:** Sai Varshith Pilli  
 **Roll No.:** 25071A6255
 
 ## Minimum Number of Frames

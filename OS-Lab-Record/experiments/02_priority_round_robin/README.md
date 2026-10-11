@@ -1,6 +1,7 @@
 # Experiment 2 — Priority and Round Robin Scheduling
 
 **Date:** 30-07-2026  
+**Student Name:** Sai Varshith Pilli  
 **Roll No.:** 25071A6255
 
 ## Priority — Non-Preemptive

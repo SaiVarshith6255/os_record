@@ -1,6 +1,7 @@
 # Experiment 9 — Disk Scheduling: C-SCAN, LOOK and C-LOOK
 
 **Date:** 17-09-2026  
+**Student Name:** Sai Varshith Pilli  
 **Roll No.:** 25071A6255
 
 ## C-SCAN

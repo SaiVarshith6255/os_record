@@ -1,6 +1,7 @@
 # Experiment 3 — Banker’s Algorithm and Scheduling Analysis
 
 **Date:** 23-07-2026  
+**Student Name:** Sai Varshith Pilli  
 **Roll No.:** 25071A6255
 
 ## Source
